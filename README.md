@@ -44,8 +44,8 @@ python3 chatbot.py
 
 Exit commands in chat:
 
-- `salir`
 - `exit`
+- `salir`
 
 ## Rule Format Notes
 
