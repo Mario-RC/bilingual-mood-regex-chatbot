@@ -47,6 +47,9 @@ htmlcov/
 *.out
 *.err
 
+# Local model artifacts
+models/
+mdoel/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
